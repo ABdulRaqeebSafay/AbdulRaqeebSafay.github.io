@@ -495,8 +495,8 @@ footer .text span a:hover {
 .animate__animated.animate__slideOutDown {
   --animate-duration: 6s;
 }
-animate__animated.animate__hinge {
-  --animate-duration: 5s;
+animate__animated.animate__fadeInTopRight {
+  --animate-duration: 7s;
 }
 
 
