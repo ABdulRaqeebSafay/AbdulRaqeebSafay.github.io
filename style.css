@@ -132,7 +132,7 @@ nav.sticky .menu-btn {
 
 @media screen and (min-width: 600px) {
   .home {
-    background: url("b.jpg") no-repeat;
+    background: url("b.jpg");
     background-size: contain;
     background-position: right;
     background-attachment: scroll;
